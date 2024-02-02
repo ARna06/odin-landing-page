@@ -77,7 +77,6 @@ a{
     margin: 0;
     gap: 60px;
     align-items: center;
-    border-radius: 20px;
 }
 
 .middleTitle{
@@ -140,6 +139,7 @@ a{
     background-color: #3882f6;
     flex-direction: row;
     justify-content: space-between;
+    border-radius: 20px;
 }
 
 .button2{
